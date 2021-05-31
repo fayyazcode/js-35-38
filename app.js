@@ -117,3 +117,18 @@
 // }
 
 // first()
+
+
+//Q9
+
+// var first=+prompt("Enter Length ")
+
+// var second=+prompt("Enter Height ")
+// var res;
+// function area(a,b){
+//     res=(a*b)
+//     document.write("area or rectangle is : "+res)
+// }
+// area(first,second)
+
+//Q10
