@@ -74,3 +74,27 @@
     
 // }
 // fact()
+
+//Q7
+
+// var first=+prompt("First number")
+
+// var last=+prompt("Last number")
+// function num(){
+// if(first<last){
+//     for(var i=first;i<=last;i++){
+//         var res=i
+//         document.write(i+" ")
+//     }
+// }
+// else if(last<first){
+//     for(var i=first;i>=last;i--){
+//         var res=i
+//         document.write(i+" ")
+//     }
+// }
+// else{
+//     alert("invalid input")
+// }
+// }
+// num()
