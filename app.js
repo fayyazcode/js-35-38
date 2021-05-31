@@ -98,3 +98,22 @@
 // }
 // }
 // num()
+
+//Q8
+
+// var base=+prompt("Enter Base")
+
+// var perp=+prompt("Enter Perpendicular")
+// var hypo;
+// var res;
+// function first(){
+
+//     function inner(){
+//         hypo=((base*base)+(perp*perp))
+//     }
+//     inner()
+//      res = Math.sqrt(hypo);
+//     document.write(res)
+// }
+
+// first()
