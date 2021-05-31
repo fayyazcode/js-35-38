@@ -132,3 +132,12 @@
 // area(first,second)
 
 //Q10
+// var string=prompt("Enter a  word to check if it is palindrome")
+// var stringRev = string.split('').reverse().join('');
+// if(string === stringRev){
+//     document.write("Its palindrome")
+// }
+// else if(string !== stringRev){
+//     document.write("Its not palindrome")
+// }
+// else{"invalid input"}
