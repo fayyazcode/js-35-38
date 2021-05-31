@@ -25,3 +25,30 @@
 // }
 
 // add(first,second)
+
+
+//Q4
+
+// var first=+prompt("First number")
+// var operator=prompt("Enter operator")
+// var second=+prompt("Second number")
+// var res;
+// function calc() {
+//     if(operator=="+"){
+//         res=(first+second)
+//     }
+//     else if(operator=="-"){
+//         res=(first-second)
+//     }
+//     else if(operator=="*"){
+//         res=(first*second)
+//     }
+//     else if(operator=="/"){
+//         res=(first/second)
+//     }
+//     else{
+//         document.write("Invalid input")
+//     }
+//     document.write(res)
+// }
+// calc()
