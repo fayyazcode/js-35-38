@@ -52,3 +52,12 @@
 //     document.write(res)
 // }
 // calc()
+
+//Q5
+// var res;
+// function square(a) {
+//     res=a*a
+//     document.write(res)
+// }
+// var num=+prompt("Enter Number to get squareroot")
+// square(num)
