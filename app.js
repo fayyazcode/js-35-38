@@ -145,14 +145,14 @@
 
 //Q11
 
-function uppercase(str)
-{
-  var first = str.split(' ');
-  var newarray = [];
+// function uppercase(str)
+// {
+//   var first = str.split(' ');
+//   var newarray = [];
     
-  for(var x = 0; x < first.length; x++){
-      newarray.push(first[x].charAt(0).toUpperCase()+first[x].slice(1));
-  }
-  return newarray.join(' ');
-}
-document.write(uppercase("the quick brown fox"));
+//   for(var x = 0; x < first.length; x++){
+//       newarray.push(first[x].charAt(0).toUpperCase()+first[x].slice(1));
+//   }
+//   return newarray.join(' ');
+// }
+// document.write(uppercase("the quick brown fox"));
