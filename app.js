@@ -158,3 +158,23 @@
 //   return newarray.join(' ');
 // }
 // document.write(uppercase("the quick brown fox"));
+//Q12
+// function getLongestWord(word) {
+//     var longest = "";
+//     var split = word.split(" ");
+//     for (var i = 0; i < split.length; i++) {
+//         if (split[i].length > longest.length) {
+//             longest = split[i]
+//         }
+//     }
+//     return longest;
+
+// }
+
+// var result1 = getLongestWord("Web Development Tutorial")
+// var result2 = getLongestWord("Hello friends chai peelo")
+// var result3 = getLongestWord("Ahmed is a good boy")
+
+// console.log(result1)
+// console.log(result2)
+// console.log(result3)
